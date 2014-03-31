@@ -1,4 +1,7 @@
-# process
+# x-process
+----------
+
+this was forked from npm-process described here:
 
 ```require('process');``` just like any other module.
 
@@ -19,5 +22,3 @@ If you are writing a bundler to package modules for client side use, make sure y
 See https://gist.github.com/4339901 for details.
 
 The [browserify](https://github.com/substack/node-browserify) module will properly handle this field when bundling your files.
-
-

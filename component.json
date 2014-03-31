@@ -1,0 +1,23 @@
+{
+  "name": "x-process",
+  "version": "0.0.11",
+  "license": "MIT",
+  "description": "process shim used by x-x.io x-components",
+  "keywords": [
+    "x-x",
+    "x-component",
+    "process"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x-component/x-process.git"
+  },
+  "devDependencies": {
+    "vows": "~0.7",
+    "dox-basic": "~0.0"
+  },
+  "main": "browser.js",
+  "scripts": [
+    "browser.js"
+  ]
+}

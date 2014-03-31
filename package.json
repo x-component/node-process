@@ -1,18 +1,17 @@
 {
-  "author": "Roman Shtylman <shtylman@gmail.com>",
-  "name": "process",
-  "description": "process information for node.js and browsers",
+  "name": "x-process",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "process used by x-x.io x-components",
   "keywords": [
+    "x-x",
+    "x-component",
     "process"
   ],
-  "version": "0.6.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shtylman/node-process.git"
+    "url": "https://github.com/x-component/x-process.git"
   },
   "browser": "./browser.js",
-  "main": "./index.js",
-  "engines": {
-    "node": ">= 0.6.0"
-  }
+  "main": "./index.js"
 }
